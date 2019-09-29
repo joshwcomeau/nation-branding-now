@@ -3,3 +3,6 @@ db.json
 public
 .com.apple.timemachine.supported
 node_modules
+
+# Local Netlify folder
+.netlify
